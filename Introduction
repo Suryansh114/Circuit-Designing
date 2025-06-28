@@ -1,0 +1,16 @@
+Hey there, This Repository includes my contributiion to Electrical engineering with emphasis on Electric-Vehicle Designing and component analysis.<br>
+If you are new to this, this is the perfect place to be because even i am inmy learning phase.
+I will be posting about the recent projects I started and keep up-to-date.
+
+The projects are as follows:
+1. EV Charger Reverse Engineering 
+  •	Reverse engineered a 3-wheeler EV charger, analyzing key components like MOSFETs, NTCs, controllers, capacitors, inductors, transformers, and diodes.
+  •	Mapped and designed a detailed circuit diagram to illustrate the functional flow, power conversion, and isolation mechanisms.
+  •	Demonstrated strong grasp of power electronics, thermal protection, and control systems through hands-on hardware analysis and system-level understanding.
+2. Hybrid Energy Storage Simulation & Power Converter Design
+  •	Developed a MATLAB Simulink model integrating a battery and ultracapacitor to simulate vehicle acceleration, braking, and regenerative braking dynamics.
+  •	Designed and implemented a Single Input Multiple Output (SIMO) converter, enabling efficient energy distribution between storage units and load.
+  •	Demonstrated advanced control strategies for energy management in EV systems, optimizing performance during transient conditions and regenerative phases.
+Investment.
+
+Even if these projects don’t reach full completion, I’m focused on extracting meaningful learning and applying it to real-world challenges beyond academics.😊
